@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veselin Dimitrov</h1>
 <h3 align="center">A passionate java developer</h3>
-"src= "https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veselindimitrov3&label=Profile%20views&color=0e75b6&style=flat" alt="veselindimitrov3" /> </p>
 
