@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Veselin Dimitrov</h1>
 <h3 align="center">A passionate Java developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veselindimitrov3&label=Profile%20views&color=0e75b6&style=flat" alt="veselindimitrov3" /> </p>
-
 - 🔭 I’m currently working on **Car shop project**
 
 - 🌱 I’m currently learning **Java**
