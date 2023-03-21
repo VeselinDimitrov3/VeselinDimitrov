@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veselin Dimitrov</h1>
 <h3 align="center">A passionate Java developer</h3>
 
-- 🔭 I’m currently working on **Car shop project**
+- 🔭 I’m currently working on **Ranking project**
 
 - 🌱 I’m currently learning **Java**
 
