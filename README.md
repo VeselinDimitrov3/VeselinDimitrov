@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Car and Ranking projects**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and JavaScript**
 
 - ⚡ Fun fact **I am funny**
 
