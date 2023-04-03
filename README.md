@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veselindimitrov3" alt="veselindimitrov3" /></a> </p>
 
-- 🔭 I’m currently working on **Car and Ranking projects**
+- 🔭 I’m currently working on **Car and Bar projects**
 
 - 🌱 I’m currently learning **Java and JavaScript**
 
